@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Pradhita Prameswari</title>
+  <desc id="desc">Portrait illustration for Pradhita Prameswari</desc>
+  <defs>
+    <linearGradient id="bg4" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f8efdf"/>
+      <stop offset="100%" stop-color="#edd8be"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="420" rx="30" fill="url(#bg4)"/>
+  <circle cx="200" cy="120" r="62" fill="#f5d4b7"/>
+  <path d="M145 118c4-46 27-74 64-74 42 0 74 29 76 74-18-17-35-25-53-25-17 0-44 9-87 25Z" fill="#3b2d2b"/>
+  <path d="M122 332c16-57 49-90 78-90 52 0 86 47 100 90H122Z" fill="#8b634c"/>
+  <circle cx="178" cy="122" r="8" fill="#2a2a2a"/>
+  <circle cx="223" cy="122" r="8" fill="#2a2a2a"/>
+  <path d="M185 156c10 9 20 13 31 13 12 0 22-4 32-13" fill="none" stroke="#a15d4f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M144 332h112l-12 55H156l-12-55Z" fill="#5f463d"/>
+</svg>

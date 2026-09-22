@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Karina Sophia Wibowo</title>
+  <desc id="desc">Portrait illustration for Karina Sophia Wibowo</desc>
+  <defs>
+    <linearGradient id="bg3" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#e6f4ff"/>
+      <stop offset="100%" stop-color="#d9e7f5"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="420" rx="30" fill="url(#bg3)"/>
+  <circle cx="200" cy="120" r="62" fill="#f0d4b6"/>
+  <path d="M147 112c8-49 29-72 60-72 48 0 79 31 81 83-16-13-30-20-49-20-20 0-53 10-92 9Z" fill="#2f4a5f"/>
+  <path d="M120 332c17-59 48-92 80-92 56 0 89 47 100 92H120Z" fill="#476785"/>
+  <circle cx="178" cy="122" r="8" fill="#2a2a2a"/>
+  <circle cx="223" cy="122" r="8" fill="#2a2a2a"/>
+  <path d="M186 156c9 9 20 13 31 13 12 0 23-4 32-13" fill="none" stroke="#a56652" stroke-width="6" stroke-linecap="round"/>
+  <path d="M143 332h112l-12 55H156l-13-55Z" fill="#3a5a75"/>
+</svg>

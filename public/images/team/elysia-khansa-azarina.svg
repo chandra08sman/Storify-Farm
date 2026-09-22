@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Elysia Khansa Azarina</title>
+  <desc id="desc">Portrait illustration for Elysia Khansa Azarina</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f5e3ef"/>
+      <stop offset="100%" stop-color="#e1d7ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="420" rx="30" fill="url(#bg2)"/>
+  <circle cx="200" cy="120" r="62" fill="#f4d9c5"/>
+  <path d="M145 115c0-48 31-77 62-77 42 0 71 31 71 77-21-16-35-22-54-22-19 0-41 7-79 22Z" fill="#513d46"/>
+  <path d="M120 332c13-58 51-92 80-92 54 0 88 45 98 92H120Z" fill="#7f5d72"/>
+  <circle cx="176" cy="122" r="8" fill="#2f2f2f"/>
+  <circle cx="223" cy="122" r="8" fill="#2f2f2f"/>
+  <path d="M184 156c10 8 20 11 31 11 11 0 21-3 31-11" fill="none" stroke="#af685d" stroke-width="6" stroke-linecap="round"/>
+  <path d="M144 332h112l-12 55H156l-12-55Z" fill="#654f62"/>
+</svg>

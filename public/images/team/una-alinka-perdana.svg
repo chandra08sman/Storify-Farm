@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Una Alinka Perdana</title>
+  <desc id="desc">Portrait illustration for Una Alinka Perdana</desc>
+  <defs>
+    <linearGradient id="bg5" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ebf5e2"/>
+      <stop offset="100%" stop-color="#cce5d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="420" rx="30" fill="url(#bg5)"/>
+  <circle cx="200" cy="120" r="62" fill="#efcfb1"/>
+  <path d="M147 118c7-49 30-72 60-72 46 0 78 31 82 82-18-15-36-22-53-22-20 0-53 8-89 12Z" fill="#234d4b"/>
+  <path d="M119 332c15-58 50-92 81-92 49 0 83 45 93 92H119Z" fill="#3b736c"/>
+  <circle cx="178" cy="122" r="8" fill="#2a2a2a"/>
+  <circle cx="223" cy="122" r="8" fill="#2a2a2a"/>
+  <path d="M186 156c9 8 20 12 31 12 12 0 23-4 32-12" fill="none" stroke="#9d5d46" stroke-width="6" stroke-linecap="round"/>
+  <path d="M145 332h112l-12 55H156l-11-55Z" fill="#1f4d4e"/>
+</svg>
